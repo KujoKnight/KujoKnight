@@ -2,8 +2,9 @@
   <h1 align="center"><img width="128px" src="https://i.imgur.com/GTB7PnX.png" align="center" alt="Me but pixels">John Parmenter</h3>
 </p>
 
-![Views](https://komarev.com/ghpvc/?username=KujoKnight&color=brightgreen) <a href="https://github.com/KujoKnight"><img src="https://img.shields.io/github/followers/KujoKnight?label=Follow" style=" float:left, margin-right:10px" /></a>
-
+<p align="center">
+<a href="https://github.com/KujoKnight"><img src="https://komarev.com/ghpvc/?username=KujoKnight&color=brightgreen" style=" float:left, margin-right:10px" /> <a href="https://github.com/KujoKnight"><img src="https://img.shields.io/github/followers/KujoKnight?label=Follow" style=" float:left, margin-right:10px" /></a>
+</p>
 
 ### About Me 👋
 Hello, I'm **John Parmenter**! I am a passionate **Technical Designer** from Orlando, Florida. I am a graduate of the University of Central Florida, with a Bachelor of Arts degree in Digital Media with a specialization in Game Design. When I'm not working on video games or game prototypes, I'm usually researching new topics about C# or C++ development, or learning new coding languages to expand my ever growing skillset.
