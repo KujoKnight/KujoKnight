@@ -2,7 +2,7 @@
   <h1 align="center"><img width="128px" src="https://i.imgur.com/GTB7PnX.png" align="center" alt="Me but pixels">John Parmenter</h3>
 </p>
 
-![Views](https://komarev.com/ghpvc/?username=KujoKnight&color=brightgreen) <a href="https://github.com/KujoKnight"><img src="https://img.shields.io/github/followers/KujoKnight?label=Follow" style=" float:left, margin-right:10px" />
+![Views](https://komarev.com/ghpvc/?username=KujoKnight&color=brightgreen) <a href="https://github.com/KujoKnight"><img src="https://img.shields.io/github/followers/KujoKnight?label=Follow" style=" float:left, margin-right:10px" /></a>
 
 
 ### About Me 👋
@@ -14,11 +14,11 @@ Hello, I'm **John Parmenter**! I am a passionate **Technical Designer** from Orl
 <img src="http://img.shields.io/badge/-Unity-1572B6?style=flat&logo=unity&logoColor=white"> <img src="http://img.shields.io/badge/-Unreal Engine 4-black?style=flat&logo=Unreal Engine&logoColor=white"> <img src="http://img.shields.io/badge/-Visual Studio-5C2D91?style=flat&logo=visual studio&logoColor=white"> <img src="http://img.shields.io/badge/-Subversion-darkgreen?style=flat&logo=Subversion&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
 ### Interests 👀
-- Game Development
+- Gameplay Programming
 - Game Mechanics/Systems
 - Retro Graphics
-- Desktop Applications
+- Desktop Application Development
 
 ### Contact Me ✍️
-- My email: [officialjohnparmenter@outlook.com](mailto:officialjohnparmenter@outlook.com)
-- My Twitter: [@KujoKnight](https://twitter.com/KujoKnight)
+- Email: [officialjohnparmenter@outlook.com](mailto:officialjohnparmenter@outlook.com)
+- Twitter: [@KujoKnight](https://twitter.com/KujoKnight)
