@@ -20,5 +20,5 @@ Hello, I'm **John Parmenter**! I am a passionate **Technical Designer** from Orl
 - Desktop Applications
 
 ### Contact Me ✍️
-- Email: officialjohnparmenter@outlook.com
+- Email: [officialjohnparmenter@outlook.com](officialjohnparmenter@outlook.com)
 - Twitter: [@KujoKnight](https://twitter.com/KujoKnight)
