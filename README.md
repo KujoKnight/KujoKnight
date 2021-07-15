@@ -2,7 +2,7 @@
   <h1 align="center"><img width="128px" src="https://i.imgur.com/GTB7PnX.png" align="center" alt="Me but pixels">John Parmenter</h3>
 </p>
 
-![Views](https://komarev.com/ghpvc/?username=KujoKnight&color=green) <a href="https://github.com/:user"><img src="https://img.shields.io/github/followers/KujoKnight?label=Follow" style=" float:left, margin-right:10px" />
+![Views](https://komarev.com/ghpvc/?username=KujoKnight&color=green) <img src="https://img.shields.io/github/followers/KujoKnight?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ### About Me 👋
